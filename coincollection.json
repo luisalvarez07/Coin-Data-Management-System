@@ -1,1 +1,26 @@
-
+[
+    {
+        "denomination": "Quarter",
+        "year": 2001,
+        "condition": "Good",
+        "value": 0.25
+    },
+    {
+        "denomination": "Quarter",
+        "year": 2001,
+        "condition": "Bad",
+        "value": 0.25
+    },
+    {
+        "denomination": "Penny",
+        "year": 1999,
+        "condition": "good",
+        "value": 0.01
+    },
+    {
+        "denomination": "Penny",
+        "year": 2006,
+        "condition": "Bad",
+        "value": 0.01
+    }
+]
